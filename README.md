@@ -2,11 +2,11 @@
 
 riskAssessmentLib/riskAssessment.txt 
 
-|          PossibleFailureName           |  RiskAssessment  |  TotalQuantityFailures   |  Severity  |
-| --- | --- |--- | --- |
-|   negativeTriangleTest_likely values   |      MINOR       |           null           |   MAJOR    |
-|  negativeTriangleTest_unlikely values  |      MINOR       |            12            |   MINOR    |
-|       positive triangleTest fail       |     CRITICAL     |            44            |  CRITICAL  |
+| PossibleFailureName                  |  RiskAssessment  |  TotalQuantityFailures   |  Severity  |
+|--------------------------------------| --- |--- | --- |
+| negative_triangleTest_likelyValues   |      MINOR       |           null           |   MAJOR    |
+| negative_triangleTest_unlikelyValues |      MINOR       |            12            |   MINOR    |
+| positive_triangleTest                |     CRITICAL     |            44            |  CRITICAL  |
 
 
 TotalRiskAssessment:  0.6749999999999999
